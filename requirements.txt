@@ -3,8 +3,11 @@ requests
 pandas
 streamlit
 folium
+folium.features
 streamlit_folium
 matplotlib
+matplotlib.pyplot
+matplotlib.dates
 datetime
 numpy
 altair
