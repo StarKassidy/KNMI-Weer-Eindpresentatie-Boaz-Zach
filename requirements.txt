@@ -1,0 +1,10 @@
+base64
+requests
+pandas
+streamlit
+folium
+streamlit_folium
+matplotlib
+datetime
+numpy
+altair
